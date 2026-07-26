@@ -1,3 +1,5 @@
+
+
 # 💫 About Me:
 I'm passionate about building modern web applications,<br>beautiful interfaces,<br>and AI-powered automation.<br><br>Currently focusing on:<br><br>Frontend Development<br>UI/UX<br>AI Automation<br>React<br>Next.js<br>Open Source
 
@@ -9,6 +11,11 @@ I'm passionate about building modern web applications,<br>beautiful interfaces,<
 ![](https://streak-stats.demolab.com/?user=recap-publish&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=recap-publish&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## ⚡ Activity Stream
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/recap-publish/recap-publish/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=recap-publish&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
